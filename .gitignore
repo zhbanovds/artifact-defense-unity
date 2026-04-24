@@ -1,0 +1,64 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+.vs/
+.vscode/
+.DS_Store
+
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+*.apk
+*.aab
+*.unitypackage
+
+*.md
+
+report.*
+!report.pdf
+report_clean.*
+report_pdflatex_test.*
+photo/
+
+# Imported Asset Store packages are not committed. Install them manually from
+# the links provided in the project submission notes / GitHub README.
+Assets/@PaulosCreations/
+Assets/@PaulosCreations.meta
+Assets/AurynSky/
+Assets/AurynSky.meta
+Assets/DacingEyebrows/
+Assets/DacingEyebrows.meta
+Assets/HYPEPOLY - Isometric Tiles Standart Lite/
+Assets/HYPEPOLY - Isometric Tiles Standart Lite.meta
+Assets/Hovl Studio/
+Assets/Hovl Studio.meta
+Assets/IronSpear Content/
+Assets/IronSpear Content.meta
+Assets/Kevin Iglesias/
+Assets/Kevin Iglesias.meta
+Assets/NamuFX/
+Assets/NamuFX.meta
+Assets/Ork berserker/
+Assets/Ork berserker.meta
+Assets/Polytope Studio/
+Assets/Polytope Studio.meta
+Assets/SazenGames/
+Assets/SazenGames.meta
+Assets/Shield Shader FREE/
+Assets/Shield Shader FREE.meta
+Assets/Stylized Crystal/
+Assets/Stylized Crystal.meta
