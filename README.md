@@ -9,7 +9,7 @@ Artifact Defense — учебный проект на Unity в жанре action
 
 Видео с демонстрацией игрового процесса доступно по ссылке:
 
-[Смотреть демонстрацию на Google Drive](https://drive.google.com/drive/u/0/my-drive)
+[Смотреть демонстрацию на Google Drive](https://drive.google.com/file/d/1n9ao0HQkT0IfCwHtH-wksRcx4kp9glSa/view?usp=sharing)
 
 ## Описание проекта
 
